@@ -8,6 +8,7 @@ using BankLib;
 using System.Collections;
 using System.Data.SqlClient;
 
+//SharpBank is project that uses MSSqlLibrary and BankLib
 namespace BankClients
 {
     public class EnumNotFoundException : Exception
